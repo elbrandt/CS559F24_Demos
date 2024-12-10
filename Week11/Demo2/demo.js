@@ -164,7 +164,7 @@ function start() {
     loadTexture(image1, texture1)
 
     // (see puppy_img.js for instructions how to create global variable puppy_img)
-    loadTexture(puppy_img, texture1)
+    loadTexture(normal_img, texture1)
 
     // (see checkerboard_img.js for instructions how to create global variable checkerboard_img)
     loadTexture(checkerboard_img, texture2)
